@@ -13,6 +13,8 @@ import numbers
 #blah
 
 class MainMenu:
+
+    
     def __init__(self, master):
         self.master = master
         self.master.geometry("500x300")
