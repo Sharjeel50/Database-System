@@ -14,6 +14,8 @@ import numbers
 # This is Master
 
 class MainMenu:
+
+    
     def __init__(self, master):
         self.master = master
         self.master.geometry("500x300")
