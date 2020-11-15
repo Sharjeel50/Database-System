@@ -32,6 +32,7 @@ class MainMenu:
             x=250,
             y=50,
             anchor="center")
+        self.nine = 9
         self.LoginButton = tk.Button(
             self.master,
             text="Login",
